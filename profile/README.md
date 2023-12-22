@@ -1,6 +1,6 @@
 ## Support Flow
 
-### An extensible GPT-powered customer support chatbot capable of seamless handoffs to human agents.
+### An extensible LLM-powered customer support chatbot capable of seamless handoffs to human agents.
 ### Won 1st Place in the Overall Beginner Track in the 2023 AI ATL Hackathon
 
 > Project Members: Saketh Reddy, Colin Fluek, Cullen Steber, Anisha Ali
