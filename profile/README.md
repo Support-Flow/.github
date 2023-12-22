@@ -6,7 +6,7 @@
 > Project Members: Saketh Reddy, Colin Fluek, Cullen Steber, Anisha Ali
 > Devpost: https://devpost.com/software/supportflow
 
-### Components:
+### Project Components:
 
 - support-flow-chat-ui: Streamlit chatbot application. Leverages OpenAI's function calling to: determine it's capabilities, intelligently prompt customers for necescary information, and transfer the conversation to a human representative when it is given a task it knows it cannot fulfil.
 
