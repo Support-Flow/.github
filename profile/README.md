@@ -1,7 +1,7 @@
 ## Support Flow
 
 ### An extensible LLM-powered customer support chatbot with a no-friction AI-to-Human handoff.
-### Won 1st Place in the Overall Beginner Track in the 2023 AI ATL Hackathon
+### Won 1st Place Overall Beginner Track in the 2023 AI ATL Hackathon
 
 > Team Members: Saketh Reddy, Colin Fluek, Cullen Steber, Anisha Ali
 > 
