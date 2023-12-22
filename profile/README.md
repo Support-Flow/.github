@@ -4,6 +4,7 @@
 ### Won 1st Place in the Overall Beginner Track in the 2023 AI ATL Hackathon
 
 > Team Members: Saketh Reddy, Colin Fluek, Cullen Steber, Anisha Ali
+> 
 > Devpost: https://devpost.com/software/supportflow
 
 ### Project Components:
