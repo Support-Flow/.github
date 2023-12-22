@@ -1,14 +1,15 @@
 ## Support Flow
 
-### Creating seamless customer support handoffs between AI chatbots and human agents
+### An extensible GPT-powered customer support chatbot capable of seamless handoffs to human agents.
+### Won 1st Place in the Overall Beginner Track in the 2023 AI ATL Hackathon
 
-<!--
+> Project Members: Saketh Reddy, Colin Fluek, Cullen Steber, Anisha Ali
+> Devpost: https://devpost.com/software/supportflow
 
-**Here are some ideas to get you started:**
+### Components:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- support-flow-chat-ui: Streamlit chatbot application. Leverages OpenAI's function calling to: determine it's capabilities, intelligently prompt customers for necescary information, and transfer the conversation to a human representative when it is given a task it knows it cannot fulfil.
+
+- supportflow-agent: React application that monitors our Firestore database for updates and sends agents to an agent dashboard when a new chatbot escalation is created. Agent dashboard includes customer information, the full chat history, the customer pain point the chatbot was unable to resolve, and instructions on what the agent needs to do in order to resolve the customers' issues.
+
+- supportflow-agent-ui: Flask application for rendering static templated agent dashboards based off of URL parameters. 
