@@ -1,6 +1,6 @@
 ## Support Flow
 
-### Create a seamless handoff between chatbot and human customer support agents
+### Creating seamless customer support handoffs between AI chatbots and human agents
 
 <!--
 
